@@ -4,3 +4,5 @@ resources:
 - gotk-components.yaml
 - gotk-sync.yaml
 - ns.yaml
+- naw-service.yaml
+- naw-receiver.yaml
