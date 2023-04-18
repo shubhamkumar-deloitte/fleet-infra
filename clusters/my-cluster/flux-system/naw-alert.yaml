@@ -13,3 +13,6 @@ spec:
     name: '*'
   providerRef:
     name: naw-provider
+  destinations:
+  - name: alert-destination
+    namespace: dev
