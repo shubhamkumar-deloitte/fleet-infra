@@ -1,0 +1,12 @@
+---
+apiVersion: notification.toolkit.fluxcd.io/v1beta2
+kind: Provider
+metadata:
+  name: naw-provider
+  namespace: flux-system
+spec:
+  channel: general
+  secretRef:
+    name: discord-url
+  type: discord
+  username: flux-bot
