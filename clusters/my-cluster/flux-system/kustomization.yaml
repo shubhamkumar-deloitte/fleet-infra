@@ -8,3 +8,5 @@ resources:
 - naw-receiver.yaml
 - naw-provider.yaml
 - naw-alert.yaml
+- podinfo-source.yaml
+- podinfo-kustomization.yaml
