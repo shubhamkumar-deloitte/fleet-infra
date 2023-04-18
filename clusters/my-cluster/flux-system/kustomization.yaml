@@ -6,3 +6,5 @@ resources:
 - ns.yaml
 - naw-service.yaml
 - naw-receiver.yaml
+- naw-provider.yaml
+- naw-alert.yaml
